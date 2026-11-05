@@ -1,5 +1,9 @@
 # OndaVital
 
+**Daniel Alejandro Ramírez Hernández · André Michel Marín Espinoza**
+
+[Descargar OndaVital para Android (APK)](https://github.com/amme140905-afk/OndaVital/releases/download/v1.0/OndaVital-1.0.apk)
+
 **Un momento para ti.** Un diario emocional para Android que convierte tus recuerdos cotidianos en una forma sencilla de conocer cómo te sientes.
 
 Registra tu ánimo, energía, actividades y pequeñas notas; vuelve a tus días desde un calendario de colores y descubre patrones con explicaciones cercanas. Su diseño combina papel, ilustraciones, tonos pastel y tinta violeta.
