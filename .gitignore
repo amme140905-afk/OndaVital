@@ -1,0 +1,33 @@
+# Archivos locales y generados
+*.iml
+.gradle/
+.kotlin/
+.idea/
+**/build/
+/local.properties
+.DS_Store
+/captures/
+/output/
+.externalNativeBuild/
+.cxx/
+
+# Credenciales y firmas locales
+.env
+.env.*
+*.jks
+*.keystore
+keystore.properties
+credentials.json
+google-services.json
+*.apk
+*.aab
+
+# Notas internas de desarrollo; las capturas del README se incluyen abajo
+/docs/*
+!/docs/capturas/
+/docs/capturas/*
+!/docs/capturas/bienvenida-fullscreen.png
+!/docs/capturas/inicio-actual.png
+!/docs/capturas/calendario-actual.png
+!/docs/capturas/analisis-actual.png
+!/docs/capturas/perfil-actual.png

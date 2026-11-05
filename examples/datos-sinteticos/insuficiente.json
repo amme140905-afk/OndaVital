@@ -1,0 +1,10 @@
+{"version":1,"demostracion":true,"escenario":"INSUFICIENTE","semilla":20271,"fin":"2026-11-05","zonaHoraria":"America/Mexico_City","registros":[
+{"fecha":"2026-10-29","hora":1793296800000,"estado":"preocupado","energia":5,"nota":"Dato sintético de demostración","actividades":["caminata"]},
+{"fecha":"2026-10-30","hora":1793383200000,"estado":"preocupado","energia":5,"nota":"Dato sintético de demostración","actividades":[]},
+{"fecha":"2026-10-31","hora":1793469600000,"estado":"calma","energia":7,"nota":"Dato sintético de demostración","actividades":["caminata"]},
+{"fecha":"2026-11-01","hora":1793556000000,"estado":"calma","energia":7,"nota":"Dato sintético de demostración","actividades":[]},
+{"fecha":"2026-11-02","hora":1793642400000,"estado":"calma","energia":7,"nota":"Dato sintético de demostración","actividades":["caminata"]},
+{"fecha":"2026-11-03","hora":1793728800000,"estado":"calma","energia":7,"nota":"Dato sintético de demostración","actividades":["personal:Actividad poco frecuente"]},
+{"fecha":"2026-11-04","hora":1793815200000,"estado":"calma","energia":7,"nota":"Dato sintético de demostración","actividades":["caminata"]},
+{"fecha":"2026-11-05","hora":1793901600000,"estado":"calma","energia":7,"nota":"Dato sintético de demostración","actividades":[]}
+]}

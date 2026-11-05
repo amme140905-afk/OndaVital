@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.OndaVital" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/papel_ondavital</item>
+        <item name="android:windowSplashScreenBackground">@color/papel_ondavital</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_vacio</item>
+        <item name="android:windowSplashScreenAnimationDuration">0</item>
+    </style>
+</resources>
